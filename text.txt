@@ -1,7 +1,0 @@
-class
-def
-loops
-conditions
-file handling
-dice
-exception handling
