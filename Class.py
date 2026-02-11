@@ -11,3 +11,4 @@ class name:
         print("Hello",self.name)
     def jayboi(self):
         print("Hello",self.name)
+
